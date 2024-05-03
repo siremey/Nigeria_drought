@@ -1,2 +1,2 @@
 # Nigeria_drought
-Personal work on Nigeria drought analysis using geemap
+A Personal project on Nigeria Drought Assessment using GEEMAP
