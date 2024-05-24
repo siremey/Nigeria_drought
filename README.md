@@ -15,7 +15,7 @@ The VCI follows the NDVI trend, with values increasing from 21% in February to 7
 The VCI, like the NDVI, shows that southern regions enjoy reasonably wet conditions, while northern areas experience poor to extremely dry vegetation conditions.
 
 Comparing the VCI and NDVI<br>
-When the NDVI and VCI are compared, they show similar tendencies, although with slight differences in their values. For example, in February 2023, the NDVI was 0.30 and the VCI was 0.20. In September, NDVI and VCI peaked at 0.56 and 0.77, respectively.<br>.
+When the NDVI and VCI are compared, they show similar tendencies, although with slight differences in their values. For example, in February 2023, the NDVI was 0.30 and the VCI was 0.20. In September, NDVI and VCI peaked at 0.56 and 0.77, respectively.
 
 Drought Condition<br>
 The study finds that 38.9% of Nigeria's geographical area is classified as extremely dry, 6.6% as severe dry, 14.2% as moderately dry, 6.8% as not dry, 12.1% as moderate wet, and 21.1% as very wet. These numbers show that more than half of the country experiences dry conditions, which pose significant risks to agricultural productivity and necessitate coordinated efforts to mitigate drought and desertification.
