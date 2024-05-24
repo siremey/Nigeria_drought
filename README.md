@@ -12,7 +12,7 @@ NDVI values are highest in September (0.56) and lowest in February (0.30). A mon
 
 VCI Analysis<br>
 The VCI follows the NDVI trend, with values increasing from 21% in February to 76.7% in September before dropping after September. This pattern demonstrates the seasonality of the country's vegetative health.<br>
-The VCI, like the NDVI, shows that southern regions enjoy reasonably wet conditions, while northern areas experience poor to extremely dry vegetation conditions.<br>
+The VCI, like the NDVI, shows that southern regions enjoy reasonably wet conditions, while northern areas experience poor to extremely dry vegetation conditions.
 
 Comparing the VCI and NDVI<br>
 When the NDVI and VCI are compared, they show similar tendencies, although with slight differences in their values. For example, in February 2023, the NDVI was 0.30 and the VCI was 0.20. In September, NDVI and VCI peaked at 0.56 and 0.77, respectively.<br>.
