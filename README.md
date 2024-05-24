@@ -5,9 +5,9 @@ The study uses NASA MODIS MOD13A2.061 Terra Vegetation Indices 16-Day Global 1km
 
 The study area is defined using the FAO Global Administrative Unit Layers (GAUL) 2015 Country Boundaries, which provide accurate geographical boundaries for research.
 
-Analysis and Results<br>
+[Analysis and Results](Nigeria_drought_analysis.ipynb)<br>
 NDVI Analysis<br>
-The [findings](Nigeria_drought_Analysis\Nigeria_drought_analysis.ipynb) show that southern Nigeria generally has high NDVI levels, indicating healthier and more robust vegetation. Northern Nigeria, especially the northeastern region, has low NDVI values. A notable exception is the Lake Chad region in northeast Borno State, which has slightly better vegetative conditions.<br>
+The findings show that southern Nigeria generally has high NDVI levels, indicating healthier and more robust vegetation. Northern Nigeria, especially the northeastern region, has low NDVI values. A notable exception is the Lake Chad region in northeast Borno State, which has slightly better vegetative conditions.<br>
 NDVI values are highest in September (0.56) and lowest in February (0.30). A monthly NDVI trajectory shows a consistent increase from February to September, followed by a fall from September onward. This pattern provides critical data for understanding the seasonal dynamics of vegetation in Nigeria, allowing for the development of informed environmental policy.
 
 VCI Analysis<br>
